@@ -1,1 +1,21 @@
-# predictive-maintenance
+# Predictive Maintenance Using Contextual Data Fusion
+
+## Team Members
+- Durga Anil (Team Lead)
+- Binit Binu
+- Krutika Thakur
+- Priyudharsh
+
+## Project Objective
+Predict machine failures using IoT sensor data and environmental conditions.
+
+## Technologies
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- LightGBM
+- Streamlit
+
+## Project Status
+Week 1: Repository Setup
