@@ -28,6 +28,25 @@ Predict machine failures using IoT sensor data and environmental conditions.
 - LightGBM
 - Streamlit
 
+
 ## Project Status
-Week 1: Repository Setup
-Week 2:contextual data fusion and feature engineering
+
+### Week 1: Repository Setup
+- GitHub repository created
+- Branches created for team members
+- Project structure initialized
+- Dashboard connected
+- Project planning completed
+
+### Week 2: Contextual Data Fusion and Feature Engineering
+- Enhanced dataset prepared
+- Contextual features added:
+  - Ambient_Temperature
+  - Load_Density
+- Engineered features created:
+  - Temp_Difference
+  - Power_Index
+- Enhanced dataset analysis completed
+- Ablation study plan prepared
+- Feature importance documentation completed
+
