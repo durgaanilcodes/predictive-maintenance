@@ -30,3 +30,4 @@ Predict machine failures using IoT sensor data and environmental conditions.
 
 ## Project Status
 Week 1: Repository Setup
+Week 2:contextual data fusion and feature engineering
