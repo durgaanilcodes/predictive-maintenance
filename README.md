@@ -15,7 +15,7 @@ Week 1
 - Durga Anil (Team Lead)
 - Binit Binu
 - Krutika Thakur
-- Priyudharsh
+- Priyudharshni
 
 ## Project Objective
 Predict machine failures using IoT sensor data and environmental conditions.
