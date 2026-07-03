@@ -18,7 +18,7 @@ Week 1
 - Priyudharshni
 
 ## Project Objective
-Predict machine failures using IoT sensor data and environmental conditions.
+Predict machine failures using IoT sensor data along with environmental conditions. By predicting failures in advance, industries can perform maintenance before a machine breaks down, reducing downtime and maintenance costs.
 
 ## Technologies
 - Python
