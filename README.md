@@ -50,3 +50,14 @@ Predict machine failures using IoT sensor data along with environmental conditio
 - Ablation study plan prepared
 - Feature importance documentation completed
 
+## Week 3: Model Development
+
+- Implemented SMOTE for class imbalance
+- Trained LightGBM classifier
+- Performed 5-Fold Stratified Cross Validation
+- Evaluated Accuracy, Precision, Recall and F1 Score
+- Generated Classification Report
+- Created Confusion Matrix
+- Generated Feature Importance Chart
+
+## Week 4: Model Evaluation
