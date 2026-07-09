@@ -4,7 +4,7 @@
 
 ### Team Members
 
-* **Durga Anil** (Team Lead)
+* **Durga Anil
 * Binit Binu
 * Krutika Thakur
 * Priyadharshini
@@ -134,7 +134,7 @@ The project includes:
 
 # Team Contributions
 
-### Durga Anil (Team Lead)
+### Durga Anil 
 
 * Repository setup
 * GitHub management
